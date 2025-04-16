@@ -5,15 +5,6 @@ Currently exploring the intersection of lab science and data analytics.
 
 ---
 
-## 🧠 Skills
-
-- 🧪 Lab Testing, Sample Handling, Water & Bitumen Analysis
-- 🐍 Python, Pandas, Matplotlib, Seaborn
-- 📊 Excel, SQL, Google Sheets
-- 🧠 Statistical Analysis, Data Cleaning, Trend Detection
-
----
-
 ## 📈 Projects
 
 ### 🔬 [Lab Sample Data Analysis](https://github.com/vivekpatel25/lab-sample-data-analysis)
@@ -24,7 +15,7 @@ Includes charts, boxplots, and descriptive stats
 Simulate NBA 5v5 matchups with real stat-based logic using Streamlit
 
 ### 🏏[Cric Simulator (Streamlit App)](https://cricsimulator.streamlit.app)
-Predict Par Scores ---
+Predict Par Scores 
 
 ## 📜 Certifications
 
