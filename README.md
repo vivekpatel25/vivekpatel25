@@ -23,7 +23,8 @@ Includes charts, boxplots, and descriptive stats
 ### 🏀 [NBA Simulator (Streamlit App)](https://nba-simulator.streamlit.app)
 Simulate NBA 5v5 matchups with real stat-based logic using Streamlit
 
----
+### 🏏[Cric Simulator (Streamlit App)](https://cricsimulator.streamlit.app)
+Predict Par Scores ---
 
 ## 📜 Certifications
 
